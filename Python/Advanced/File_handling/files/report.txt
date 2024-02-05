@@ -1,0 +1,16 @@
+.html
+- - - index.html
+.js
+- - - index.js
+.pptx
+- - - demo.pptx
+.py
+- - - program.py
+- - - python.py
+.txt
+- - - file.txt
+- - - log.txt
+- - - notes.txt
+- - - output.txt
+- - - report.txt
+- - - text.txt
