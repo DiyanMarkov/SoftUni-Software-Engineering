@@ -11,6 +11,7 @@
 ✅ Understanding the interrelationship between different IT concepts;
 
 
+
 ---------------📖 𝗔𝗯𝗼𝘂𝘁 𝘁𝗵𝗲 𝗰𝗼𝘂𝗿𝘀𝗲 📖-----------------
 
 Additional technologies needed by every software developer are studied, such as HTML and CSS, HTTP, bit operations, and more.
