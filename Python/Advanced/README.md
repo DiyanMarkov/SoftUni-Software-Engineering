@@ -1,10 +1,15 @@
 ---------------📚 𝐀𝐜𝐪𝐮𝐢𝐫𝐞𝐝 𝐬𝐤𝐢𝐥𝐥𝐬 📚------------------
  
 ✅ Working with two-dimensional data structures;
+
 ✅ Creating linear data structures;
+
 ✅ Application of basic algorithms;
+
 ✅ Application of functional programming;
+
 ✅ Work with data streams, files and directories;
+
 ✅ Error handling;
 
 
