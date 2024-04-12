@@ -1,0 +1,4 @@
+article span:first-of-type {
+    font-weight: bold;
+    color: red;
+}
